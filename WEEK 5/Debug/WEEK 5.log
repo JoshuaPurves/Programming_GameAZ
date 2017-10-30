@@ -1,0 +1,16 @@
+﻿  cGame.cpp
+c:\users\jpurve201\source\repos\week 5\week 5\cgame.cpp(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jpurve201\source\repos\week 5\week 5\cgame.cpp(138): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jpurve201\source\repos\week 5\week 5\cgame.cpp(153): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  WEEK 5.vcxproj -> C:\Users\jpurve201\source\repos\WEEK 5\Debug\WEEK 5 ROCKETSSDL.exe
+  WEEK 5.vcxproj -> C:\Users\jpurve201\source\repos\WEEK 5\Debug\WEEK 5 ROCKETSSDL.pdb (Partial PDB)
+  copying SDL2.dll to debug directory
+  C:\Users\jpurve201\Desktop\SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\jpurve201\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  C:\Users\jpurve201\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  C:\Users\jpurve201\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  C:\Users\jpurve201\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  C:\Users\jpurve201\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  C:\Users\jpurve201\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File(s) copied
